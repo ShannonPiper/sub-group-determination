@@ -15,10 +15,11 @@ Or blast using Geneious (although batch blast does not work)
 2. Use geneious alignment to align forward and reverse reads with known 1A, 1B, and 1C samples
 3. Use the following table to identify SNPs in each sample:
 
-	  125 bp	 143 bp	 162 bp
-1A	 T	      C	       TT
-1B	 G	      C	       GC
-1C	 G	      T	       GC
+|Subgroup|125 bp|143 bp|162 bp|
+|--------|------|------|------|
+|1A|T|C|TT|
+|1B|G|C|GC|
+|1C|G|T|GC|
 
 
 
